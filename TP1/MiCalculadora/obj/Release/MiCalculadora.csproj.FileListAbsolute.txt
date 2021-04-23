@@ -1,5 +1,0 @@
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\MiCalculadora\obj\Release\MiCalculadora.csprojAssemblyReference.cache
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\MiCalculadora\obj\Release\MiCalculadora.FormCalculadora.resources
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\MiCalculadora\obj\Release\MiCalculadora.Properties.Resources.resources
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\MiCalculadora\obj\Release\MiCalculadora.csproj.GenerateResource.cache
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\MiCalculadora\obj\Release\MiCalculadora.csproj.CoreCompileInputs.cache
