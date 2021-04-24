@@ -1,7 +1,0 @@
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\bin\Release\Entidades.dll.config
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\bin\Release\Entidades.dll
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\bin\Release\Entidades.pdb
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Release\Entidades.csprojAssemblyReference.cache
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Release\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Release\Entidades.dll
-C:\Users\Usuario\Desktop\tp_laboratorio_2-master\TP1\Entidades\obj\Release\Entidades.pdb
